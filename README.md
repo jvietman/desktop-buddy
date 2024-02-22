@@ -9,4 +9,4 @@ Desktop Buddy is a program that makes buddies appear on your desktop.
 You can interact with them and they can also do things by themselves. You can pet them and move them around. They can also move on their own and so some neat tricks.
 
 ## Modifications
-All buddies can be completely modified and new buddies can be added. Everything regarding how buddies work and how to modify them can be found in the
+All buddies can be completely modified and new buddies can be added. Everything regarding to how buddies works and how to modify them can be found in the [doc.md](doc.md) file.
