@@ -1,51 +1,62 @@
 # Todo
 This is a todo list for me to keep track of what to do and what is already added.
 
-- [ ] add onground to gravity
-- [ ] sit on windows
-    - [ ] get windows (getwin.py)
-    - [ ] make it sit
-- [X] necessary stuff
-    - [ ] actions
-        - [ ] happy (when petting)
-    - [ ] animations
-        - [ ] grab (mouse grab)
-        - [ ] flying
-- [ ] ai
-    - [X] choose next action
-    - [X] execute script
-    - [X] execute async
-    - [X] do stuff (commands)
-    - [X] ai timer (wait x seconds to do ya)
-    - [ ] give all important values as parameters for scripts
-    - [ ] states
-        - [X] default animations
-        - [X] reset to default animation command
-        - [ ] execute state scripts
-        - [ ] command to switch states
-    - [X] changing values
-        - [X] mood
-        - [X] energy
-        - [X] hunger
-        - [X] attention
-    - [X] actions influenced by values
-        - [X] modd
-        - [X] energy
-    - [X] rise attention (grabbing, petting)
-    - [X] energy usage by action
-    - [ ] basic feeding (just command)
-- [ ] requirements
-- [ ] activities
+- [ ] **Windows**
+    - [ ] windows update themselves
+        - [ ] gravity
+        - [ ] sprites
+- [ ] **Gravity**
+    - [X] basic gravity
+    - [X] move with mouse
+        - [X] drag
+        - [X] throw
+    - [X] prevent out of bounds
+    - [ ] add onground to gravity
+- [ ] **Buddy**
+    - [ ] AI
+        - [X] choose actions
+        - [X] execute script
+            - [X] run async
+            - [X] action scripts
+            - [ ] state script
+        - [X] script commands
+            - [X] return commands
+            - [X] multiple commands
+            - [X] ignore
+            - [X] setpos
+            - [X] move
+            - [ ] slide
+            - [ ] fade_move
+            - [X] velocity
+            - [X] flip
+            - [X] rotate
+            - [X] animation
+            - [X] resetanimation
+            - [X] playsound
+        - [X] ai timer (wait x seconds)
+        - [ ] states
+            - [X] default animations
+            - [X] reset to default animation command
+            - [ ] execute state scripts
+            - [ ] command to switch states
+        - [X] values
+            - [X] mood
+            - [X] energy
+            - [X] hunger
+            - [X] attention
+        - [X] update values
+        - [X] influence action with values
+            - [X] mood
+            - [X] energy
+        - [X] rise attention with activities
+        - [X] energy usage by action
+        - [ ] basic feeding (just command)
+    - [ ] support for flying
+- [ ] **Activities**
+    - [X] grabbing
+    - [X] petting
     - [ ] feeding
-    - [ ] play with ball
-    - [ ] tiktok (lowers attention span)
-- [ ] write documentation
-- [ ] flying types
-    - [ ] extra flying commands
-        - [ ] slide
-        - [ ] fade_move
-- [X] json
-- [X] move buddy
-- [X] buddy gravity
-- [X] throw buddy around
-- [X] side borders
+- [ ] **files**
+    - [X] settings
+    - [ ] requirements for imports
+    - [ ] write documentation !
