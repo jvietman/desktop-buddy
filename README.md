@@ -5,8 +5,8 @@ Turn your desktop into a playground for your buddies.
 Im actively working on this project and Im committed to keeping you in the loop.
 
 ## Jump to topic
-- [Description](description)
-- [Modifications](modifications)
+- [Description](#description)
+- [Modifications](#modifications)
 
 ## Links
 - [Documentation](DOCUMENTATION.md)
