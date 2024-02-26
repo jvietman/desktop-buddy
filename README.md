@@ -15,8 +15,9 @@ Im actively working on this project and Im committed to keeping you in the loop.
 - [Todo](TODO.md)
 
 ## <a name="description"></a>Description
-Desktop Buddy is a program that makes buddies appear on your desktop.
-You can interact with them and they can also do things by themselves. You can pet them and move them around. They can also move on their own and so some neat tricks.
+Desktop Buddy is a program that makes creatures called buddies appear on your desktop.
+You can interact with them in many ways. You can pet them and move them around. They can also do stuff on their own. They can walk around and do some neat tricks. All buddies have their own special features and interests.
+The buddies have feelings and those feelings can influence the buddies behaviour. They can be bored or they can be full of energy. Their mood can changes by how often you interact with them, in what way you interact with them and how you treat them overall.
 
 ## <a name="modifications"></a>Modifications
 All buddies can be completely modified and new buddies can be added. The program works dynamically with configurations of other users. Many things can be modified like how the buddy looks like and how it behaves. Everything regarding to how the buddies work and how to modify them can be found in the [documentation](DOCUMENTATION.md).
