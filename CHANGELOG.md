@@ -1,5 +1,5 @@
 # Changelog
 
-## v0.3 (WIP)
+## v0.3.0 (WIP)
 ### Added
 - changelog
