@@ -3,6 +3,7 @@ Turn your desktop into a playground for your buddies.
 
 > #### State of development
 > Im actively working on this project and Im committed to keeping you in the loop.
+> All changes can be seen in the [changelog](CHANGELOG.md).
 
 ## Jump to topic
 - [Description](#description)
