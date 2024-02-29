@@ -1,0 +1,82 @@
+{
+    "size": [89, 80],
+    "ground": 2,
+    "center": 24,
+
+    "petpos": 6,
+    "petdetect": 10,
+    
+    "mood": {
+        "happy": 60,
+        "angry": 20
+    },
+    "hungry": 40,
+
+    "valuetolerance": 2,
+    "timetolerance": 4,
+    "valueconfig": {
+        "moodswitch": 20,
+        "moodincrease": 2,
+        "mooddrop": 3,
+        
+        "energyidletime": 10,
+        "regaintime": 6,
+        "energyregain": 6,
+        
+        "attentionidletime": 40,
+        "attentiontime": 20,
+        "attentionsteps": 4,
+        "attentionpivot": 70
+    },
+    "actiontime": 16,
+    "stats": {
+        "walkspeed": 5,
+        "steps": [40, 100],
+        "jumpforce": 40,
+        "flipspeed": 30
+    },
+    
+    "sprites": {
+        "idle": "idle.gif",
+        "walk": "run.gif",
+        "sit": "sit.gif",
+        "sleep": "sleep.gif"
+    },
+    
+    "soundtime": 16,
+    "sounds": {
+        "excited": [
+            "excited0.wav",
+            "excited1.wav",
+            "excited2.wav",
+            "excited3.wav"
+        ],
+        "happy": [
+            "happy0.wav",
+            "happy1.wav",
+            "happy2.wav",
+            "happy3.wav"
+        ],
+        "neutral": [
+            "neutral0.wav",
+            "neutral1.wav",
+            "neutral2.wav",
+            "neutral3.wav"
+        ],
+        "angry": [
+            "mad0.wav",
+            "mad1.wav",
+            "mad2.wav",
+            "mad3.wav",
+            "mad4.wav",
+            "mad5.wav",
+            "mad6.wav",
+            "mad7.wav"
+        ],
+        "sleepy": [
+            "sleepy0.wav",
+            "sleepy1.wav",
+            "sleepy2.wav"
+        ]
+    }
+}

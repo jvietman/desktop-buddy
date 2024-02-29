@@ -1,0 +1,44 @@
+[
+    {
+        "name": "walk",
+        "async": true,
+        "moods": ["happy", "neutral", "angry"],
+        "strength": [0, 0 ,0]
+    },
+    {
+        "name": "jump",
+        "async": false,
+        "moods": ["happy"],
+        "strength": [0]
+    },
+    {
+        "name": "catch",
+        "async": false,
+        "moods": ["happy"],
+        "strength": [0]
+    },
+    {
+        "name": "sit",
+        "async": true,
+        "moods": ["happy"],
+        "strength": [0]
+    },
+    {
+        "name":"sleep",
+        "async": true,
+        "moods": ["happy"],
+        "strength": [0]
+    },
+    {
+        "name": "watch",
+        "async": true,
+        "moods": ["happy"],
+        "strength": [0]
+    },
+    {
+        "name": "listen",
+        "async": true,
+        "moods": ["happy"],
+        "strength": [0]
+    }
+]

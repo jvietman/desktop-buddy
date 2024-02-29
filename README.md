@@ -1,8 +1,8 @@
 # Desktop Buddy ![idle](https://github.com/jvietman/pokebuddy/assets/77661493/7f1023e7-1a1e-4747-81e2-d34990eac1d4)
 Turn your desktop into a playground for your buddies.
 
-> #### State of development
-> Im actively working on this project and Im committed to keeping you in the loop.
+#### State of development
+Im actively working on this project and Im committed to keeping you in the loop.
 
 ## Jump to topic
 - [Description](#description)

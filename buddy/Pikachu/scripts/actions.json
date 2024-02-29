@@ -1,0 +1,38 @@
+[
+    {
+        "name": "walk",
+        "async": true,
+        "rare": false,
+        "states": ["neutral"],
+        "moods": ["happy", "neutral", "angry"],
+        "strength": [0, 0, 0],
+        "energy": 5
+    },
+    {
+        "name": "jump",
+        "async": false,
+        "rare": false,
+        "states": ["neutral"],
+        "moods": ["happy", "neutral"],
+        "strength": [0, 50],
+        "energy": 15
+    },
+    {
+        "name": "flip",
+        "async": true,
+        "rare": true,
+        "states": ["neutral"],
+        "moods": ["happy"],
+        "strength": [0],
+        "energy": 20
+    },
+    {
+        "name": "happy",
+        "async": false,
+        "rare": false,
+        "states": [],
+        "moods": [],
+        "strength": [],
+        "energy": 0
+    }
+]

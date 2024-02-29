@@ -1,0 +1,5 @@
+colorama==0.4.6
+Pillow==10.2.0
+pygame==2.5.2
+screeninfo==0.8.1
+SwSpotify==1.2.3

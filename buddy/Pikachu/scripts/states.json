@@ -1,0 +1,22 @@
+[
+    {
+        "name": "neutral",
+        "sprites": "idle"
+    },
+    {
+        "name": "sit",
+        "sprites": "sit"
+    },
+    {
+        "name": "sleep",
+        "sprites": "sit"
+    },
+    {
+        "name": "watch",
+        "sprites": "sit"
+    },
+    {
+        "name": "listen",
+        "sprites": "sit"
+    }
+]

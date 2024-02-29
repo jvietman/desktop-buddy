@@ -1,0 +1,26 @@
+{
+    "buddy": "Pikachu",
+    "volume": 20,
+
+    "updatetime": 0.01,
+
+    "ground": 40,
+    "position": [1000, 40],
+
+    "minvalue": 40,
+    "startwithvalue": false,
+    "value": 100,
+    "hunger": 100,
+    "energy": 100,
+    "attention": 100,
+    
+    "platformupdate": 3,
+    "gravity": 3,
+    "gravitytime": 0.02,
+    "enabledgravity": true,
+    
+    "frametime": 0.05,
+
+    "debug": true,
+    "debugwindow": false
+}
