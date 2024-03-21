@@ -1,9 +1,9 @@
 # Changelog
 
 > #### Info
-> Versions that I am currently working on have their own branches. When the version is finished, I will merge the main branch with the version branch. The version branches will not be deleted.
+> All versions have their own branches. When a new version is finished, it will be merged with the main branch. The version will not be deleted after the merge so you have access to them at any time.
 >
-> I added the changelog in the middle of the development. Previous changes and version will not be noted here.
+> I added the changelog in the middle of the development, so previous changes and version will not be noted here.
 
 ## Versions
 
