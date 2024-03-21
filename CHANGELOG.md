@@ -8,6 +8,9 @@
 ## Versions
 
 ### v0.3.0 (WIP)
+#### WIP
+- documentation in code, comments
+
 #### Added
 - changelog
 - uploaded files to branch 0.3.0
