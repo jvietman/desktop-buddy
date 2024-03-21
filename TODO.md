@@ -61,3 +61,4 @@ This is a todo list for me to keep track of what to do and what is already added
     - [ ] requirements for imports
     - [ ] code comments
     - [ ] write documentation !
+    - [ ] readme in multiple languages (EN, DE)
