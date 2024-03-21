@@ -56,7 +56,8 @@ This is a todo list for me to keep track of what to do and what is already added
     - [X] grabbing
     - [X] petting
     - [ ] feeding
-- [ ] **files**
+- [ ] **Files**
     - [X] settings
     - [ ] requirements for imports
+    - [ ] code comments
     - [ ] write documentation !
