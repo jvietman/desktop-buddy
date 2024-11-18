@@ -1,15 +1,13 @@
 # Desktop Buddy ![idle](https://github.com/jvietman/pokebuddy/assets/77661493/7f1023e7-1a1e-4747-81e2-d34990eac1d4)
 Turn your desktop into a playground for your buddies.
 
-> ### Latest downloadable version!
-> [Latest version: 0.3.0](#description)
-> For everyone that is trying to get their hands on this program already, you are free to download any work in progress version.
-> All versions have their own branches. If you like to you can use older versions of the program.
-> Have fun!
+### Latest version!
+[Latest Version: 0.3.0](https://github.com/jvietman/desktop-buddy/tree/0.3.0)
 
 > #### State of development
-> This project is still in work. The documentation will be finished when the first full version is released.
-> Early version still in development can be downloaded and used, but they are mostly unstable and not error free.
+> This project is still in work and will be for a long time. The documentation will be finished when the first full version is released.
+> Early versions still in development can be downloaded and used, but they are mostly unstable and not free of errors.
+> Every version has its on branch. You can download any version you want and play around with it. Have fun!
 > All changes can be seen in the [changelog](CHANGELOG.md).
 
 ## Jump to topic
