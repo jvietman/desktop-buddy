@@ -2,7 +2,7 @@
 Turn your desktop into a playground for your buddies.
 
 ### Latest version!
-[Latest Version: 0.3.0](https://github.com/jvietman/desktop-buddy/tree/0.3.0)
+[0.3.0 download](https://github.com/jvietman/desktop-buddy/tree/0.3.0)
 
 > #### State of development
 > This project is still in work and will be for a long time. The documentation will be finished when the first full version is released.
